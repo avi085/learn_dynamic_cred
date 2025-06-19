@@ -48,3 +48,5 @@ resource "aws_instance" "web-1" {
     name = "Dynamic_cred_ec2_2"
   }
 }
+
+
